@@ -13,5 +13,9 @@ A simple and interactive drawing application built with HTML5 Canvas, JavaScript
 
 - **HTML5 Canvas**: For rendering the drawing area.  
 - **JavaScript**: For handling drawing logic.  
-- **CSS**: For styling the interface.  
+- **CSS**: For styling the interface.
+
+## Screenshot
+![image](https://github.com/user-attachments/assets/a3b4884c-9f6a-4992-98bf-626d64b47f26)
+
 
